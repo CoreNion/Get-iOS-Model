@@ -56,6 +56,7 @@ namespace Xamarin.iOS
                 { "iPhone14,3", iOSChipType.A15Bionic }, // iPhone 13 Pro Max
                 { "iPhone14,4", iOSChipType.A15Bionic }, // iPhone 13 mini
                 { "iPhone14,5", iOSChipType.A15Bionic }, // iPhone 13
+                { "iPhone14,6", iOSChipType.A15Bionic }, // iPhone SE (3rd generation)
                 { "iPad1,1", iOSChipType.A4 }, // iPad
                 { "iPad2,1", iOSChipType.A5 }, // iPad 2 Wi-Fi
                 { "iPad2,2", iOSChipType.A5 }, // iPad 2 GSM
@@ -127,6 +128,8 @@ namespace Xamarin.iOS
                 { "iPad13,9", iOSChipType.M1 }, // iPad Pro (12.9-inch) (5th generation) Wi-Fi
                 { "iPad13,10", iOSChipType.M1 }, // iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular
                 { "iPad13,11", iOSChipType.M1 }, // iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular
+                { "iPad13,16", iOSChipType.M1 }, // iPad Air (5th generation) Wi-Fi
+                { "iPad13,17", iOSChipType.M1 }, // iPad Air (5th generation) Wi-Fi + Cellular
                 { "iPad14,1", iOSChipType.A15Bionic }, // iPad mini 5 Wi-Fi
                 { "iPad14,2", iOSChipType.A15Bionic }, // iPad mini 5 Wi-Fi + Cellular
                 { "iPod1,1", iOSChipType.A4 }, // iPod Touch
